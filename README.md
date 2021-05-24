@@ -36,12 +36,9 @@
 <br />
 
 <br/>
-<details>
-  <summary> GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=theankitroy&show_icons=true&hide_border=true" />
+<details>
+ <summary> GitHub Stats</summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=theankitroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/>
 
 </details>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=theankitroy&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"/> -->
-<!--  -->
-
